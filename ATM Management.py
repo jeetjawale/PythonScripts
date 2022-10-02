@@ -81,7 +81,7 @@ if count == 3:
 
     print('***********************************')
     print('3 UNSUCCESFUL PIN ATTEMPTS, EXITING')
-    print('!!!!!YOUR CARD HAS BEEN LOCKED!!!!!')
+    print('!!!!!DEAR CUSTOMER YOUR CARD HAS BEEN TEMPORARILY BLOCKED DUE TO SECURITY REASONS, PLEASE CONTACT YOUR BANK FOR FURTHER ASSISSTANC!!!!!')
     print('***********************************')
 
     exit()
